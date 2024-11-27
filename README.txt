@@ -1,0 +1,1 @@
+Kopiera datan från config.example.php till egen config.php och fyll i med egna värden för anslutning till databas.
